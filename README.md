@@ -1,15 +1,13 @@
 # zhaohuiqiang.github.io
 
 >This is my home page
-
+|
 ### 基本信息
-* 赵恢强  硕士					 
-* 性别：男						  
-* 籍贯：湖北咸宁					
-* 邮箱：346091714@qq.com			![赵恢强](https://cmis.csdc.info/upload/selfspace/zhaohq/image/20170421203713546.JPG)
-* 出生年月：1993-08
-* 政治面貌：中共党员
-* 办公电话：027-87558397
+* 赵恢强  硕士|* 出生年月：1993-08|![赵恢强](https://cmis.csdc.info/upload/selfspace/zhaohq/image/20170421203713546.JPG)	 
+* 性别：男|* 政治面貌：中共党员|						  
+* 籍贯：湖北咸宁|* 办公电话：027-87558397|					
+* 邮箱：346091714@qq.com|	|		
+
 
 ### 教育背景
 * 2016-9至今 华中科技大学 电信学院 信息与通信工程 硕士
