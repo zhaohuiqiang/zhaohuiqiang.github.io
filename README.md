@@ -3,10 +3,10 @@
 >This is my home page
 
 ### 基本信息
-* ![赵恢强](https://cmis.csdc.info/upload/selfspace/zhaohq/image/20170421203713546.JPG)  硕士					 
+* 赵恢强  硕士					 
 * 性别：男						  
 * 籍贯：湖北咸宁					
-* 邮箱：346091714@qq.com 
+* 邮箱：346091714@qq.com			![赵恢强](https://cmis.csdc.info/upload/selfspace/zhaohq/image/20170421203713546.JPG)
 * 出生年月：1993-08
 * 政治面貌：中共党员
 * 办公电话：027-87558397
