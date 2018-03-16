@@ -10,7 +10,7 @@
 * 邮箱：346091714@qq.com
 * 通讯地址：湖北省武汉市洪山区关山街道珞喻路1037号华中科技大学南一楼702
 
---![赵恢强](https://cmis.csdc.info/upload/selfspace/zhaohq/image/20171214164435326.jpg = 100x130)
+--![赵恢强](//https://cmis.csdc.info/upload/selfspace/zhaohq/image/20171214164435326.jpg = 100x130)
 
 ### 教育背景
 * 2016-9至今     华中科技大学 电信学院  信息与通信工程   硕士
