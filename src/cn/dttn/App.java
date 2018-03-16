@@ -52,12 +52,12 @@ public class App {
 
     }
 
-    public static void countSort(Integer[] arr) {
+    private static void countSort(Integer[] arr) {
         int bound = 100000;
         Sort.countSort(arr, bound);
     }
 
-    public static <T> void radixSort(T[] arr) {
+    private static <T> void radixSort(T[] arr) {
         Character[] radix = new Character[10];
         for (int i = 0; i < radix.length; i++)
             radix[i] = Character.forDigit(i, 10);
